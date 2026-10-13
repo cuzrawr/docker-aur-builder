@@ -1,0 +1,13 @@
+**
+!Dockerfile
+!retry.sh
+!build.sh
+!entrypoint.sh
+!yay-config.json
+!pacman.conf.host
+!makepkg.conf.host
+!mirrorlist.host
+!makepkg-container.conf
+!makepkg.conf.user.host
+!makepkg.conf.d.host/
+!makepkg.conf.d.host/*.conf

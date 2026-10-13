@@ -1,0 +1,14 @@
+{
+  "buildDir": "/cache/yay",
+  "answerclean": "None",
+  "answerdiff": "None",
+  "answeredit": "None",
+  "answerupgrade": "None",
+  "cleanAfter": false,
+  "removemake": "yes",
+  "cleanmenu": false,
+  "diffmenu": false,
+  "editmenu": false,
+  "sudobin": "sudo",
+  "sudoflags": ""
+}

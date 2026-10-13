@@ -1,0 +1,10 @@
+/build/
+/cache/
+/*.host
+/makepkg.conf.d.host/
+/.aurbuilder.lock
+/*tmp/
+__pycache__/
+*.py[cod]
+*.log
+*.pkg.tar*
